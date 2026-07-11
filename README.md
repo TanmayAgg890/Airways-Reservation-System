@@ -7,7 +7,7 @@ A desktop-based flight booking application designed for efficiency and modern ae
 * **Real-time Search**: Seamlessly filter and view available domestic flights in India.
 * **Booking Cart**: A dedicated sidebar to manage your selections and track your bookings in real-time.
 * **Budget Tracker**: Automatic total price calculation with built-in alerts when the budget limit is exceeded.
-* **Database Driven**<img width="1536" height="727" alt="image" src="https://github.com/user-attachments/assets/431ca98c-de86-4b50-bd99-85e2990f956e" />
+* **Database Driven**
 : Uses `MySQL` (via XAMPP) for persistent storage of flight and passenger data.
 
 ## 🛠️ Tech Stack
